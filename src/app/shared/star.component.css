@@ -1,0 +1,9 @@
+.crop {
+  overflow: hidden;
+}
+div {
+  cursor: pointer;
+}
+div span {
+  color: rgb(195, 209, 5);
+}
